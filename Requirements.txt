@@ -1,0 +1,6 @@
+Pandas
+matplotlib
+numpy
+scikit-learn
+IPython
+pickle-mixin
